@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Makeup-studio/static/css/main.0d627140.css",
+    "main.js": "/Makeup-studio/static/js/main.44a968e6.js",
+    "static/js/787.9b3df36d.chunk.js": "/Makeup-studio/static/js/787.9b3df36d.chunk.js",
+    "index.html": "/Makeup-studio/index.html",
+    "main.0d627140.css.map": "/Makeup-studio/static/css/main.0d627140.css.map",
+    "main.44a968e6.js.map": "/Makeup-studio/static/js/main.44a968e6.js.map",
+    "787.9b3df36d.chunk.js.map": "/Makeup-studio/static/js/787.9b3df36d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d627140.css",
+    "static/js/main.44a968e6.js"
+  ]
+}
